@@ -41,6 +41,7 @@ This repository documents my journey from general cloud concepts to specialized 
 
 ## 📜 Certifications & Learning
 * **Google Cloud Professional Certificate** (Completed)
+* **OCI Foundations 2025 Certificate** (Completed)
 * **CompTIA Security+** (In Progress)
 * **ISC2 CC** (In Progress)
 
