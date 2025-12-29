@@ -18,7 +18,7 @@ This repository documents my journey from general cloud concepts to specialized 
 | **00** | [**Google Cloud Capstone Project**](./00-GCP-Capstone-Project/) | `General Cloud` `Architecture` | ✅ Completed |
 | **01** | [**AWS IAM Privilege Audit**](./01-AWS-IAM-Audit/) | `Identity (IAM)` `Least Privilege` | ✅ Completed |
 | **02** | [**Secure Network Architecture**](./02-AWS-Secure-Network/) | `Network Security` `Firewalls` | ✅ Completed |
-| **03** | [**Automated Security Monitoring**](./03-AWS-Monitoring/) | `Incident Response` `Automation` | 📅 Planned |
+| **03** | [**Automated Security Monitoring**](./03-AWS-Monitoring/) | `Incident Response` `Automation` | ✅ Completed |
 
 ---
 
